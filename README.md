@@ -1,6 +1,6 @@
 # Bird Species Observation Analysis
 
-**Live Dashboard:** [View on Streamlit Cloud](<your-streamlit-app-url>)
+**Live Dashboard:** [View on Streamlit Cloud](https://bird-observation-analysis.streamlit.app/)
 
 ## Project Overview
 
