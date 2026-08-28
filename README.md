@@ -54,7 +54,7 @@ Bird Species Observation Analysis/
 
 1. Clone the repository:
    ```bash
-   git clone <your-repository-link>
+   git clone https://github.com/adarsh-tiwari29/bird-species-observation-analysis
    cd "Bird Species Observation Analysis"
    ```
 
