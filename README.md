@@ -75,7 +75,7 @@ Bird Species Observation Analysis/
    streamlit run app.py
    ```
 
-   Or use the hosted version: [`<your-streamlit-app-url>`](<your-streamlit-app-url>)
+   Or use the hosted version: [`<your-streamlit-app-url>`](https://bird-observation-analysis.streamlit.app/)
 
 ## Data Sources
 
