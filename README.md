@@ -1,5 +1,7 @@
 # Bird Species Observation Analysis
 
+**Live Dashboard:** [View on Streamlit Cloud](<your-streamlit-app-url>)
+
 ## Project Overview
 
 A complete data analysis pipeline focused on Environmental Studies and Biodiversity Conservation. The project analyzes the distribution, behavior, and diversity of bird species across two distinct ecosystems: **Forest** and **Grassland**.
@@ -72,6 +74,8 @@ Bird Species Observation Analysis/
    ```bash
    streamlit run app.py
    ```
+
+   Or use the hosted version: [`<your-streamlit-app-url>`](<your-streamlit-app-url>)
 
 ## Data Sources
 
